@@ -10,4 +10,10 @@ public class Student {
 		this.first_name = first_name;
 		this.last_name = last_name;
 	}
+	
+	@Override
+	public String toString() {
+		
+		return id+"\t"+last_name +"\t" +first_name;
+	}
 }

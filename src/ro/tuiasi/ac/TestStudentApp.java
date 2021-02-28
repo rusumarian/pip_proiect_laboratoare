@@ -6,6 +6,9 @@ public class TestStudentApp {
 		System.out.println("Main for Student App project");
 		//declares a student
 		Student s1 = new Student(10,"a","b");
+		
+		System.out.println(s1);
+		
 	}
 
 }
