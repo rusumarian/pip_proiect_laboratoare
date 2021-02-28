@@ -1,0 +1,10 @@
+package ro.tuiasi.ac;
+
+public class TestStudentApp {
+
+	public static void main(String[] args) {
+		System.out.println("Main for Student App project");
+
+	}
+
+}
