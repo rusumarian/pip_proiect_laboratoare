@@ -17,7 +17,7 @@ public class Student {
 		return id+"\t"+last_name +"\t" +first_name;
 	}
 	void print(){
-		System.out.println("Studentul: "+last_name+" ia nota 10!");
+		System.out.println("Studentul: "+first_name+" ia nota 10!");
 		
 	}
 }
