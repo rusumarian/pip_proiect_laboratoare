@@ -17,6 +17,6 @@ public class Student {
 		return id+"\t"+last_name +"\t" +first_name;
 	}
 	void print(){
-		int x = 100;
+		System.out.println("Studentul: "+last_name);
 	}
 }
