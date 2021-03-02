@@ -6,8 +6,10 @@ public class TestStudentApp {
 		System.out.println("Main for Student App project");
 		//declares a student
 		Student s1 = new Student(10,"a","b");
+		Student s2 = new Student(33,"Popescu","Ion");
 		
-		System.out.println(s1);
+		s1.print();
+		s2.print();
 		
 	}
 
